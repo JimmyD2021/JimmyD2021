@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JimmyD2021
+- 👋 Hi, I’m James!
 - 👀 I’m interested in FinTech and Software Engineering
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything!
